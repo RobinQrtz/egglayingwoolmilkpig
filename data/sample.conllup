@@ -1,0 +1,35 @@
+#sid	2
+1	Mr.	Mr.	_	NNP	_	3	np-hdn	_	_	_
+2	Sherlock	Sherlock	_	NNP	_	3	np-hdn	_	_	_
+3	Holmes	Holmes	_	NNP	_	27	sb-hd	1:compound|2:compound|9:loc|14:ARG1|28:ARG2	_	_
+4	,	,	_	,	_	3	punct	_	_	_
+5	who	who	_	WP	_	6	flr-hd	_	_	14:scope
+6	was	be	_	VBD	_	3	hdn-aj	_	_	14:event
+7	usually	usually	_	RB	_	0	root	_	_	_
+8	very	very	_	RB	_	9	sp-hd	_	_	14:scope
+9	late	late	_	JJ	_	6	hd-cmp	7:ARG1|8:ARG1|10:ARG1	_	14:event
+10	in	in	_	IN	_	9	hdn-aj	_	_	14:scope
+11	the	the	_	DT	_	12	sp-hd	_	_	14:scope
+12	mornings	morning	_	NNS	_	10	hd-cmp	10:ARG2|11:BV	_	14:scope
+13	,	,	_	,	_	12	punct	_	_	14:scope
+14	save	save	_	VB	_	0	root	15:ARG1|20:ARG1	_	0:cue
+15	upon	upon	_	IN	_	14	hd-aj	_	_	14:scope
+16	those	those	_	DT	_	19	sp-hd	_	_	14:scope|18:scope|17:scope
+17	not	not	_	RB	_	0	root	_	_	14:scope|0:cue
+18	infrequent	infrequent	_	JJ	_	19	aj-hdn	_	_	14:scope|18:event|17:event|0:cue
+19	occasions	occasion	_	NNS	_	15	hd-cmp	15:ARG2|16:BV|18:ARG1	_	14:scope|18:scope|17:scope
+20	when	when	_	WRB	_	14	hd-aj	_	_	14:scope|18:scope|17:scope
+21	he	he	_	PRP	_	22	sb-hd	23:ARG1	_	14:scope|18:scope|17:scope
+22	was	be	_	VBD	_	20	hd-cmp	_	_	14:scope|18:scope|17:scope
+23	up	up	_	RB	_	22	hd-cmp	20:ARG2|25:loc	_	14:scope|18:scope|17:scope
+24	all	all	_	DT	_	25	sp-hd	_	_	14:scope|18:scope|17:scope
+25	night	night	_	NN	_	23	hd-aj	24:BV	_	14:scope|18:scope|17:scope
+26	,	,	_	,	_	25	punct	_	_	_
+27	was	be	_	VBD	_	0	root	_	_	_
+28	seated	seat	_	VBN	_	27	hd-cmp	29:ARG1|33:ROOT	_	_
+29	at	at	_	IN	_	28	hd-aj	_	_	_
+30	the	the	_	DT	_	32	sp-hd	_	_	_
+31	breakfast	breakfast	_	NN	_	32	n-hdn	_	_	_
+32	table	table	_	NN	_	29	hd-cmp	29:ARG2|30:BV|31:compound	_	_
+33	.	.	_	.	_	32	punct	_	_	_
+
