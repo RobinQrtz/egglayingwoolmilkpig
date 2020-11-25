@@ -23,6 +23,7 @@ Good Luck :)
 If you want to use the parser please cite one or more of these papers:
 
 - A Detailed Analysis of Semantic Dependency Parsing with Deep Neural Networks
+
     @mastersthesis{Roxbo1315439,
        author = {Roxbo, Daniel},
        institution = {Linköping University, Human-Centered systems},
@@ -34,6 +35,7 @@ If you want to use the parser please cite one or more of these papers:
        year = {2019}
     }
 - Improving Semantic Dependency Parsing with Syntactic Features
+
     @inproceedings{kurtz-etal-2019-improving,
         title = "Improving Semantic Dependency Parsing with Syntactic Features",
         author = "Kurtz, Robin  and
@@ -49,6 +51,7 @@ If you want to use the parser please cite one or more of these papers:
         abstract = "We extend a state-of-the-art deep neural architecture for semantic dependency parsing with features defined over syntactic dependency trees. Our empirical results show that only gold-standard syntactic information leads to consistent improvements in semantic parsing accuracy, and that the magnitude of these improvements varies with the specific combination of the syntactic and the semantic representation used. In contrast, automatically predicted syntax does not seem to help semantic parsing. Our error analysis suggests that there is a significant overlap between syntactic and semantic representations.",
     }
 - End-to-End Negation Resolution as Graph Parsing
+
     @inproceedings{kurtz-etal-2020-end,
         title = "End-to-End Negation Resolution as Graph Parsing",
         author = "Kurtz, Robin  and
