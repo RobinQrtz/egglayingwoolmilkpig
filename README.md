@@ -4,7 +4,7 @@ This repository contains the egglayingwoolmilksow a dependency graph parser,
 named after the fabled german farm animal.
 The code was first implemented by Daniel Roxbo and modified by Robin Kurtz.
 
-# Usage
+## Usage
 
 To run the parser check some of the run-scripts located in the `scripts` folder.
 You can either supply all parameters via the command line or use a config file
@@ -13,7 +13,12 @@ In order to read syntactic trees, semantic graphs, as well as other
 dependency-styled graphs, we use a CoNLL-U inspired format, presented in the
 sample file located in the `data` folder.
 
-# Reference
+Additionally to the features used in the publications below, the parser also
+supports freezing and recycling of layers.
+
+Good Luck :)
+
+## Reference
 
 If you want to use the parser please cite one or more of these papers:
 
