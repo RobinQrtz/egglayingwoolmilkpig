@@ -1,6 +1,6 @@
-# egglayingwoolmilksow
+# egglayingwoolmilkpig
 
-This repository contains the egglayingwoolmilksow a dependency graph parser,
+This repository contains the egglayingwoolmilkpig a dependency graph parser,
 named after the fabled german farm animal.
 The code was first implemented by Daniel Roxbo and modified by Robin Kurtz.
 
